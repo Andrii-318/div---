@@ -7,12 +7,16 @@
 }
 #focus {
   border: 1px solid orangered;
-  padding: 10px;
+  padding: 20px;
   width: 200px;
+  border-radius: 15px;
 }
 #textInput,
 #focus {
   margin: 10px;
+  padding: 20px;
+  border-radius: 15px;
+  background-color: bisque;
 }
 .hidden {
   display: none;

@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+#focus {
+  border: 1px solid orangered;
+  padding: 10px;
+  width: 200px;
+}
+#textInput,
+#focus {
+  margin: 10px;
+}
+.hidden {
+  display: none;
+}
